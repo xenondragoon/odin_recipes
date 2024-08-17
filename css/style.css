@@ -1,0 +1,33 @@
+.title{
+background-color: antiquewhite;
+color: red;
+font-size: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: ;
+border: ;
+margin: ;
+text-align: center;
+
+}
+
+ul{
+    /*background-color: rgb(214, 238, 155);*/
+    font-size: 18px;
+    padding: ;
+    border: ;
+    margin: ;
+
+}
+ li{
+    width:  auto;
+    height: 40px;
+    padding: 8px;
+    border: 2px dotted red;
+    margin: 8px;
+   text-align: center;
+    display: block;
+    background-color: yellow ;
+    box-sizing: content-box;
+
+
+ }
